@@ -1,0 +1,16 @@
+
+/* Hanken_Grotesk */
+
+@font-face {
+    font-family: "Hanken_Grotesk";
+    src: url(../Hanken_Grotesk/HankenGrotesk-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Hanken_Grotesk";
+    src: url(../Hanken_Grotesk/HankenGrotesk-Bold.ttf);
+    font-weight: 700;
+}
+
+/* Hanken_Grotesk */
