@@ -13,4 +13,10 @@
     font-weight: 700;
 }
 
+@font-face {
+    font-family: "Hanken_Grotesk";
+    src: url(../Hanken_Grotesk/HankenGrotesk-ExtraBold.ttf);
+    font-weight: 800;
+}
+
 /* Hanken_Grotesk */
